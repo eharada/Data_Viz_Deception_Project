@@ -1,4 +1,4 @@
-# Is the Zika virus actually getting worse in the United States or is there false information out?
+# Is the Zika virus actually getting worse in the United States or is there false information circulating?
 
 The following information was pulled directly from www.kaggle.com where there is a survey that shows the number of Zika cases per month and by location. Kaggle user, Thiago, created data visualizations that show Zika cases generally getting worse every year for every country. 
 
@@ -33,7 +33,15 @@ This is visual is good to see that we will need to take a closer look at the rep
 
 #### <i>1st Iteration:</i>
 
+![image](https://user-images.githubusercontent.com/32119820/32427336-c90593e6-c274-11e7-81ab-0c47c7343ab8.png)
 
+![image](https://user-images.githubusercontent.com/32119820/32427380-ec8d6d52-c274-11e7-9fd3-e053f7e6acdd.png)
+
+In the first chart, it shows a breakdown of the reported Zika cases that came from local (mosquitoes in the area) versus those who contracted Zika while traveling abroad. In that chart it is clear that the increased number of cases are only caused by people traveling to areas with the Zika virus. None of the reported cases come from being bitten by mosquitoes in the United States.
+<br/>
+In the second chart, we can see that there is no relationship between reported and confirmed cases. People could think that they have the Zika virus and report it, but they might have another virus with similar symptoms. Although the number of reported cases is increasing, there are consistently no confirmed cases in 2016. This allows the audience to believe that they have nothing to worry about since no one in 2016 had the virus.
+
+#### <i>2nd Iteration:</i>
 
 ----------
 
