@@ -12,6 +12,13 @@ However, Thiago’s generalizations give the audience a wrong impression and is 
 Instead we should be focusing on the number of confirmed cases so that we can be more accurate. We should also split up the data by age groups of 20 years, as shown in the survey. Age could play a critical role to see if Zika is getting worse and it will allow us to take more specific actions. Rather than scaring everyone and not being able to have a call-to-action, we could see if those who are younger tend to be more vulnerable than those who are older and vice-versa. Additionally we want to shift our focus to the United States as that information would affect us closely. 
 <br/><br/>
 
+## Project Key Items:
+Claim: The Zika virus is not getting worse as stated in the original data visualization
+Audience: Females in the mid-20s to late 30s who are worried about contracting the Zika virus and having birth complications
+Needs: To see evidence that the virus isn't getting out of hand and they have nothing to worry about
+Wants: The virus to subside in areas that they frequently visit or live in
+Fears: The Zika virus is getting worse over time
+
 ---------
 ## Project Progression:
 
@@ -42,7 +49,7 @@ In the first chart, it shows a breakdown of the reported Zika cases that came fr
 In the second chart, we can see that there is no relationship between reported and confirmed cases. People could think that they have the Zika virus and report it, but they might have another virus with similar symptoms. Although the number of reported cases is increasing, there are consistently no confirmed cases in 2016. This allows the audience to believe that they have nothing to worry about since no one in 2016 had the virus.
 <br/><br/>
 
-In the next version, I want to reduce the number of variables shown in each graph. It will be less confusing to the audience to see one variable, so I am going to find the standard deviation between reported and confirmed cases.
+In the next version, I want to reduce the number of variables shown in each graph. It may be too cluttered to see so many variables for the graphs, so I am going to find the standard deviation between reported and confirmed cases.
 
 #### <i>2nd Iteration:</i>
 
