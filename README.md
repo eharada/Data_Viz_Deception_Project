@@ -13,11 +13,11 @@ Instead we should be focusing on the number of confirmed cases so that we can be
 <br/><br/>
 
 ## Project Key Items:
-Claim: The Zika virus is not getting worse as stated in the original data visualization
-Audience: Females in the mid-20s to late 30s who are worried about contracting the Zika virus and having birth complications
-Needs: To see evidence that the virus isn't getting out of hand and they have nothing to worry about
-Wants: The virus to subside in areas that they frequently visit or live in
-Fears: The Zika virus is getting worse over time
+Claim: The Zika virus is not getting worse as stated in the original data visualization <br/>
+Audience: Females in the mid-20s to late 30s who are worried about contracting the Zika virus and having birth complications <br/>
+Needs: To see evidence that the virus isn't getting out of hand and they have nothing to worry about <br/>
+Wants: The virus to subside in areas that they frequently visit or live in <br/>
+Fears: The Zika virus is getting worse over time <br/>
 
 ---------
 ## Project Progression:
