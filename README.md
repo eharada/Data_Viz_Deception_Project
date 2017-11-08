@@ -53,6 +53,12 @@ In the next version, I want to reduce the number of variables shown in each grap
 
 #### <i>2nd Iteration:</i>
 
+![image](https://user-images.githubusercontent.com/32119820/32528377-92cecb0c-c3e7-11e7-927d-502ea6e0c276.png)
+
+In this version, I took the perentage difference between reported and confirmed cases. In the above chart, we can see that majority of the time there are more reported cases than cofirmed cases in the United States. This allows us to be more at ease because we only really care about the confirmed cases. If there isn't a strong correlation between reported and confirmed cases, then we don't have to worry about Zika being an issue in the United States.
+
+
+
 ----------
 
 
