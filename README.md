@@ -40,13 +40,13 @@ This is visual is good to see that we will need to take a closer look at the rep
 
 #### <i>1st Iteration:</i>
 
-![image](https://user-images.githubusercontent.com/32119820/32427336-c90593e6-c274-11e7-81ab-0c47c7343ab8.png)
+![image](https://user-images.githubusercontent.com/32119820/32590330-b873657e-c4ce-11e7-8ba4-809ebbc06282.png)
 
-![image](https://user-images.githubusercontent.com/32119820/32427380-ec8d6d52-c274-11e7-9fd3-e053f7e6acdd.png)
+![image](https://user-images.githubusercontent.com/32119820/32590341-c82b28bc-c4ce-11e7-8f1b-b6fc678a3a2b.png)
 
 In the first chart, it shows a breakdown of the reported Zika cases that came from local (mosquitoes in the area) versus those who contracted Zika while traveling abroad. In that chart it is clear that the increased number of cases are only caused by people traveling to areas with the Zika virus. None of the reported cases come from being bitten by mosquitoes in the United States.
 <br/>
-In the second chart, we can see that there is no relationship between reported and confirmed cases. People could think that they have the Zika virus and report it, but they might have another virus with similar symptoms. Although the number of reported cases is increasing, there are consistently no confirmed cases in 2016. This allows the audience to believe that they have nothing to worry about since no one in 2016 had the virus.
+In the second chart, we can see that there is no relationship between reported and confirmed cases. People could think that they have the Zika virus and report it, but they might have another virus with similar symptoms. Although the number of reported cases is increasing, there are consistently no confirmed cases in US states in 2016. This allows the audience to believe that they have nothing to worry about since no one in 2016 had the virus.
 <br/><br/>
 
 In the next version, I want to reduce the number of variables shown in each graph. It may be too cluttered to see so many variables for the graphs, so I am going to find the standard deviation between reported and confirmed cases.
