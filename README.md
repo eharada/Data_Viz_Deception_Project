@@ -25,7 +25,7 @@ Fears: The Zika virus is getting worse over time <br/>
 #### <i>Exploratory Visual:</i>
 In the first visual, our goal is to see what the trend is between reported and confirmed case. In the graph we could see that there is generally a larger number of confirmed versus reported cases. It is interesting to see that in January there are a few reported cases but no confirmed cases. This could be an indicator that the symptoms could take a while to appear and the total number of confirmed cases that we see in June could be those who were actually affected in an early month such as February.
 
-![image](https://user-images.githubusercontent.com/32119820/32259122-8fea41b2-be7b-11e7-99e6-c27827b3fe3e.png)
+![image](https://user-images.githubusercontent.com/32119820/32686460-038a51ee-c65a-11e7-9192-e407e70b9fe2.png)
 
 This is visual is good to see that we will need to take a closer look at the reported cases to see if it's actually increasing every month. From a high overview, it looks as though Zika is getting worse as the months progress. However, we still need to view additional factors such as age.
 <br/><br/>
