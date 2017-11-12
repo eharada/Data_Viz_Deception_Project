@@ -6,18 +6,18 @@ The following information was pulled directly from www.kaggle.com where there is
 
 ![image](https://user-images.githubusercontent.com/32119820/32258671-1f45e044-be79-11e7-9222-a2d767fec4e9.png)
 
-However, Thiago’s generalizations give the audience a wrong impression and is not completely accurate. He is looking too broadly to see if the number of reported cases is increasing every year. He does not look to see if other factors could play a role, which creates a unwarranted fear among people. In addition, reported cases is not accurate as there could be those who feel that they have Zika but are actually experiencing a different virus. If that is the case, the total number of reported cases does not get updated with the new number. 
+However, Thiago’s generalizations give the audience a wrong impression and is not completely accurate. He is looking too broadly to see if the number of reported cases is increasing every year. However, reported cases is not accurate as there could be those who feel that they have Zika but are actually experiencing a different virus. If that is the case, the total number of reported cases does not get updated with the new reduced number. 
 <br/>
 
-Instead we should be focusing on the number of confirmed cases so that we can be more accurate. We should also split up the data by age groups of 20 years, as shown in the survey. Age could play a critical role to see if Zika is getting worse and it will allow us to take more specific actions. Rather than scaring everyone and not being able to have a call-to-action, we could see if those who are younger tend to be more vulnerable than those who are older and vice-versa. Additionally we want to shift our focus to the United States as that information would affect us closely. 
+Instead we should also look at confirmed cases to see if there is a one-to-one relationship between reported cases turning into confirmed cases. If there is no relationship, then there is no need to spend more money on Zika. In addition, we will be focusing on the United States as that most closely affects us.
 <br/><br/>
 
 ## Project Key Items:
 Claim: The Zika virus is not getting worse as stated in the original data visualization <br/>
-Audience: Females in the mid-20s to late 30s who are worried about contracting the Zika virus and having birth complications <br/>
+Audience: Everyone living in the United States who is afraid of contracting the virus <br/>
 Needs: To see evidence that the virus isn't getting out of hand and they have nothing to worry about <br/>
 Wants: The virus to subside in areas that they frequently visit or live in <br/>
-Fears: The Zika virus is getting worse over time <br/>
+Fears: The Zika virus is getting worse over time and we need to spend more money<br/>
 
 ---------
 ## Project Progression:
@@ -49,14 +49,13 @@ In the first chart, it shows a breakdown of the reported Zika cases that came fr
 In the second chart, we can see that there is no relationship between reported and confirmed cases. People could think that they have the Zika virus and report it, but they might have another virus with similar symptoms. Although the number of reported cases is increasing, there are consistently no confirmed cases in US states in 2016. This allows the audience to believe that they have nothing to worry about since no one in 2016 had the virus.
 <br/><br/>
 
-In the next version, I want to reduce the number of variables shown in each graph. It may be too cluttered to see so many variables for the graphs, so I am going to find the standard deviation between reported and confirmed cases.
+In the next version, I want to reduce the number of variables shown in each graph. It may be too cluttered to see so many variables for the graphs, so I am going to see what percent of cases are reported and what percent are confirmed. This will allow the audience to easily compare the two categories.
 
 #### <i>2nd Iteration:</i>
 
-![image](https://user-images.githubusercontent.com/32119820/32528377-92cecb0c-c3e7-11e7-927d-502ea6e0c276.png)
+![image](https://user-images.githubusercontent.com/32119820/32696392-b5a667f6-c72b-11e7-845f-6e7fcfdc0b5b.png)
 
-In this version, I took the perentage difference between reported and confirmed cases. In the above chart, we can see that majority of the time there are more reported cases than cofirmed cases in the United States. This allows us to be more at ease because we only really care about the confirmed cases. If there isn't a strong correlation between reported and confirmed cases, then we don't have to worry about Zika being an issue in the United States.
-
+In this version we are looking at the difference between reported and confirmed cases. In the above chart, we can see that every month there are more reported than cofirmed cases in the United States. This allows us to be more at ease because we only really care about the confirmed cases. This addresses the audience's fears that the Zika virus is spreading quickly and that we need to take action immediately. 
 
 
 ----------
