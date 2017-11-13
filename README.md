@@ -10,8 +10,6 @@ However, Thiago’s generalizations give the audience a wrong impression and is 
 
 It will be important to validate the fact that Zika isn't getting worse as this is was a rising concern in 2016. Women who contract the virus will have pregnancy complications and newborns will have birth defects. Therefore, if we are able to show that Zika isn't getting worse, then United States can focus their efforts on other diseases that are affecting its citizens on a higher basis.
 
-<br/>
-
 Instead we should also look at confirmed cases to see if there is a one-to-one relationship between reported cases turning into confirmed cases. If there is no relationship, then there is no need to spend more money on Zika. In addition, we will be focusing on the United States as that most closely affects us.
 <br/><br/>
 
