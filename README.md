@@ -1,6 +1,8 @@
 # Is the Zika virus actually getting worse in the United States or is there false information?
 
-The following information was pulled directly from www.kaggle.com where there is a CDC survey that shows the number of Zika cases per month and by location. Kaggle user, Thiago, created data visualizations that show Zika cases generally getting worse every year for every country. 
+The following information was pulled directly from www.kaggle.com where there is a CDC survey that shows the number of Zika cases per month and by location. Kaggle user, Thiago, created data visualizations that show Zika cases generally getting worse every year for every country. The specific dataset can be found here:
+
+https://www.kaggle.com/thiagoprocaci/zika-cases-by-country/code
 
 ![image](https://user-images.githubusercontent.com/32119820/32259045-1cc542b8-be7b-11e7-9673-a2372a1d06d0.png)
 
