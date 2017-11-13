@@ -56,7 +56,7 @@ In the next version, I want to reduce the number of variables shown in each grap
 
 In this version we are looking at the difference between reported and confirmed cases. In the above chart, we can see that every month there are more reported than cofirmed cases in the United States. This allows us to be more at ease because we only really care about the confirmed cases. This addresses the audience's fears that the Zika virus is spreading quickly and that we need to take action immediately. 
 
-In the next version, I am going to show two charts. One that follows the claim that Zika is getting worse in the United States and another that shows that Zika is not getting worse. Both will take the average reported and confirmed number of cases rather than the sum. In the survey data, there were a lot rows that had 0 reported/confirmed cases. Therefore, we will want to even out the data and view the averages.
+In the next version, I am going to show two charts. One that follows the claim that Zika is getting worse in the United States and another that shows that Zika is not getting worse. This will allow us to see how one data visualization can be manipulated to tell a completely different story. Despite having the same exact data, we are able to show that Zika is getting worse and that Zika is not getting worse. Both will take the average reported and confirmed number of cases rather than the sum. In the survey data, there were a lot rows that had 0 reported/confirmed cases. Therefore, we will want to even out the data and view the averages. 
 
 ----------
 
