@@ -65,6 +65,13 @@ In the next version, I am going to show two charts. One that follows the claim t
 ### Claim Two: Zika is not getting worse in the United States and we have nothing to worry about
 
 
+In addition, the CDC website (https://www.cdc.gov/zika/reporting/case-counts.html) backs up our claim and shows updated information on the status of Zika cases. 
+
+![image](https://user-images.githubusercontent.com/32119820/32713569-ab48021e-c7fe-11e7-8965-79de7aad1594.png)
+
+In CDC's chart, it is visible that Zika is in fact not getting worse. After a large increase in July 2016, the number of Zika cases has been vastly decreasing and there are no significant cases during this past year. Because this is confirmed with the CDC, the United States has nothing to worry about as this is a trusted/reliable source. Therefore, no further actions need to be taken as we can reduce our current funding for Zika virus. Instead, we should allocate those resources elsewhere to other more prominant diseases.
+
+
 ---------
 1. Project statement (Motivation, objective, data, project plan)  
 2. “Making-of” documentation (Details of your development process, data wrangling steps, your reasoning,  detours, literature, etc.)  
