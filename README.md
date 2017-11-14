@@ -12,11 +12,14 @@ However, Thiago’s generalizations give the audience a wrong impression and is 
 
 It will be important to validate the fact that Zika isn't getting worse as this is was a rising concern in 2016. Women who contract the virus will have pregnancy complications and newborns will have birth defects. Therefore, if we are able to show that Zika isn't getting worse, then United States can focus their efforts on other diseases that are affecting its citizens on a higher basis.
 
-Instead of looking at only the reported cases, we should also look at confirmed cases to see if there is a one-to-one relationship between reported cases turning into confirmed cases. If there is no relationship, then there is no need to spend more money on Zika. In addition, we will be focusing on the United States as that most closely affects us.
+Instead of looking at only the reported cases, we should also look at confirmed cases to see if there is a one-to-one relationship between reported cases turning into confirmed cases. If there is no relationship, then there is no need to spend more money on Zika. In addition, we will be focusing on the United States as I am making the assumption that our audience are only those who are living in the United States or one of its territories.
+
 <br/><br/>
 
 ## Project Key Items:
 Claim: The Zika virus is not getting worse as stated in the original data visualization <br/>
+Rebuttal: The Zika virus is getting worse over time and we should spend more money on a cure <br/>
+Qualifier: The virus is not getting worse in the United States <br/>
 Audience: Everyone living in the United States who is afraid of contracting the virus <br/>
 Needs: To see evidence that the virus isn't getting out of hand and they have nothing to worry about <br/>
 Wants: The virus to subside in areas that they frequently visit or live in <br/>
@@ -56,13 +59,17 @@ In the next version, I want to reduce the number of variables shown in each grap
 
 In this version we are looking at the difference between reported and confirmed cases. In the above chart, we can see that every month there are more reported than cofirmed cases in the United States. This allows us to be more at ease because we only really care about the confirmed cases. This addresses the audience's fears that the Zika virus is spreading quickly and that we need to take action immediately. 
 
-In the next version, I am going to show two charts. One that follows the claim that Zika is getting worse in the United States and another that shows that Zika is not getting worse. This will allow us to see how one data visualization can be manipulated to tell a completely different story. Despite having the same exact data, we are able to show that Zika is getting worse and that Zika is not getting worse. Both will take the average reported and confirmed number of cases rather than the sum. In the survey data, there were a lot rows that had 0 reported/confirmed cases. Therefore, we will want to even out the data and view the averages. 
+In the next version, I am going to show two charts. One that follows the claim that Zika is getting worse in the United States and another that shows that Zika is not getting worse. This will allow us to see how one data visualization can be manipulated to tell a completely different story. Despite having the same exact data, we are able to show that Zika is getting worse and that Zika is not getting worse. Both will take the average reported and confirmed number of cases rather than the sum. In the survey data, there were a lot rows that had zero reported/confirmed cases. Therefore, we will want to even out the data and view the averages in both versions.
 
 ----------
 
 ## Final Version:
 
 ### Claim One: Zika is getting worse in the United States and we should put more focus on finding a cure
+
+![image](https://user-images.githubusercontent.com/32119820/32765721-a5f72d40-c8c0-11e7-8432-2c6c33afb791.png)
+
+The chart shows reported and confirmed cases getting worse as the months progress. Although the number of confirmed cases is less than the number of reported cases, we still want to pay attention to the total number of cases per month. This signifies that the CDC should focus more efforts towards the Zika virus in order to avoid a massive outbreak in a few months.
 
 ### Claim Two: Zika is not getting worse in the United States and we have nothing to worry about
 
