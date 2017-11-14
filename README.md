@@ -14,8 +14,7 @@ It will be important to validate the fact that Zika isn't getting worse as this 
 
 Instead of looking at only the reported cases, we should also look at confirmed cases to see if there is a one-to-one relationship between reported cases turning into confirmed cases. If there is no relationship, then there is no need to spend more money on Zika. In addition, we will be focusing on the United States as I am making the assumption that our audience are only those who are living in the United States or one of its territories.
 
-<br/><br/>
-
+<br/>
 ## Project Key Items:
 Claim: The Zika virus is not getting worse as stated in the original data visualization <br/>
 Rebuttal: The Zika virus is getting worse over time and we should spend more money on a cure <br/>
@@ -34,7 +33,7 @@ In the first visual, our goal is to see what the trend is between reported and c
 ![image](https://user-images.githubusercontent.com/32119820/32765980-b7950dfa-c8c1-11e7-807e-feb46021bd20.png)
 
 This visual is good because we can see that we will need to take a closer look at the reported cases to see if it's actually increasing every month. From a high overview, it looks as though Zika is getting worse as the months progress. However, the exploratory data looks at the total values rather than averages, so the trend could look worse than it actually is.
-<br/><br/>
+<br/>
 
 #### <i>Data Wrangling:</i>
 
