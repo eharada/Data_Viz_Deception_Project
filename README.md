@@ -55,7 +55,7 @@ In the next version, I want to reduce the number of variables shown in each grap
 
 #### <i>2nd Iteration:</i>
 
-![image](https://user-images.githubusercontent.com/32119820/32696392-b5a667f6-c72b-11e7-845f-6e7fcfdc0b5b.png)
+![image](https://user-images.githubusercontent.com/32119820/32765742-c5f88eb8-c8c0-11e7-90bc-21d1f82b0ee7.png)
 
 In this version we are looking at the difference between reported and confirmed cases. In the above chart, we can see that every month there are more reported than cofirmed cases in the United States. This allows us to be more at ease because we only really care about the confirmed cases. This addresses the audience's fears that the Zika virus is spreading quickly and that we need to take action immediately. 
 
