@@ -70,7 +70,7 @@ In the next version, I am going to show two charts. One that follows the claim t
 
 The chart shows reported and confirmed cases getting worse as the months progress. Although the number of confirmed cases is less than the number of reported cases, we still want to pay attention to the total number of cases per month. This signifies that the CDC should focus more efforts towards the Zika virus in order to avoid a massive outbreak in a few months.
 
-### Claim Two: Zika is not getting worse in the United States and we have nothing to worry about
+### Claim Two: Zika is not getting worse in the United States and the CDC should take no further actions
 
 ![image](https://user-images.githubusercontent.com/32119820/32766412-b5919a44-c8c3-11e7-924f-76bb9447f40f.png)
 
