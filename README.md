@@ -31,7 +31,7 @@ Fears: The Zika virus is getting worse over time and we need to spend more money
 #### <i>Exploratory Visual:</i>
 In the first visual, our goal is to see what the trend is between reported and confirmed case. In the graph we could see that there is generally a larger number of confirmed versus reported cases. This could be an indicator that the symptoms could take a while to appear. For example, the total number of confirmed cases that we see in June could be those who were actually affected in an early month such as February.
 
-![image](https://user-images.githubusercontent.com/32119820/32686460-038a51ee-c65a-11e7-9192-e407e70b9fe2.png)
+![image](https://user-images.githubusercontent.com/32119820/32765980-b7950dfa-c8c1-11e7-807e-feb46021bd20.png)
 
 This visual is good because we can see that we will need to take a closer look at the reported cases to see if it's actually increasing every month. From a high overview, it looks as though Zika is getting worse as the months progress. However, the exploratory data looks at the total values rather than averages, so the trend could look worse than it actually is.
 <br/><br/>
@@ -55,7 +55,7 @@ In the next version, I want to reduce the number of variables shown in each grap
 
 #### <i>2nd Iteration:</i>
 
-![image](https://user-images.githubusercontent.com/32119820/32765742-c5f88eb8-c8c0-11e7-90bc-21d1f82b0ee7.png)
+![image](https://user-images.githubusercontent.com/32119820/32765904-6c56f7e0-c8c1-11e7-84bf-47fa62dabe88.png)
 
 In this version we are looking at the difference between reported and confirmed cases. In the above chart, we can see that every month there are more reported than cofirmed cases in the United States. This allows us to be more at ease because we only really care about the confirmed cases. This addresses the audience's fears that the Zika virus is spreading quickly and that we need to take action immediately. 
 
@@ -67,7 +67,7 @@ In the next version, I am going to show two charts. One that follows the claim t
 
 ### Claim One: Zika is getting worse in the United States and we should put more focus on finding a cure
 
-![image](https://user-images.githubusercontent.com/32119820/32765721-a5f72d40-c8c0-11e7-8432-2c6c33afb791.png)
+![image](https://user-images.githubusercontent.com/32119820/32765742-c5f88eb8-c8c0-11e7-90bc-21d1f82b0ee7.png)
 
 The chart shows reported and confirmed cases getting worse as the months progress. Although the number of confirmed cases is less than the number of reported cases, we still want to pay attention to the total number of cases per month. This signifies that the CDC should focus more efforts towards the Zika virus in order to avoid a massive outbreak in a few months.
 
