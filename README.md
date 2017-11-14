@@ -92,6 +92,7 @@ In future versions, I would like to include the following:
 ---------
 *Make sure to add class concepts
 *add jupyter notebook
+*add tableau public links
 4. Final data visualization 
 5. Road map with future features/enhancements/features 
 6. Showcase video (<90 sec) 
