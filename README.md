@@ -72,8 +72,11 @@ The chart shows reported and confirmed cases getting worse as the months progres
 
 ### Claim Two: Zika is not getting worse in the United States and we have nothing to worry about
 
+![image](https://user-images.githubusercontent.com/32119820/32766412-b5919a44-c8c3-11e7-924f-76bb9447f40f.png)
 
-In addition, the CDC website (https://www.cdc.gov/zika/reporting/case-counts.html) backs up our claim and shows updated information on the status of Zika cases. 
+The chart above shows that although the number of average cases in increasing, we haven't seen a huge spike since February 2016. In addition, majority of the cases each month are reported instead of confirmed. This indicates that there is no direct correlation between reported and confirmed cases. Therefore, United States has nothing to worry about because the number of confirmed cases is significantly lower than the number of reported cases. More often than not, people feel Zika-like symptoms but are often feeling symptoms from another virus.
+
+In addition to our findings, the CDC website (https://www.cdc.gov/zika/reporting/case-counts.html) backs up our claim and shows updated information on the status of Zika cases. 
 
 ![image](https://user-images.githubusercontent.com/32119820/32713569-ab48021e-c7fe-11e7-8965-79de7aad1594.png)
 
@@ -82,8 +85,13 @@ In CDC's chart, it is visible that Zika is in fact not getting worse. After a la
 -----------
 ## Future Enhancements
 
+In future versions, I would like to include the following:
+1. Get more data on Zika virus in the United States. Right now the survey is limited to only having confirmed cases in the Virgin Islands. If there are more people with confirmed cases in the United States, we'll want to include that in our findings.<br/>
+2. Get more specific data on reported cases to include age. This will allow us to see whether age plays a role in the number of Zika cases. If it does, then we would be able to take more specific actions.<br/>
+
 ---------
 *Make sure to add class concepts
+*add jupyter notebook
 4. Final data visualization 
 5. Road map with future features/enhancements/features 
 6. Showcase video (<90 sec) 
