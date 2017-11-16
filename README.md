@@ -65,19 +65,17 @@ In the next version, I am going to show two charts. One that follows the claim t
 
 ## Final Version:
 
-### Claim One: Zika is getting worse in the United States and we should put more focus on finding a cure
+### *Claim One: Zika is getting worse in the United States and we should put more focus on finding a cure
 
-![image](https://user-images.githubusercontent.com/32119820/32765742-c5f88eb8-c8c0-11e7-90bc-21d1f82b0ee7.png)
+![image](https://user-images.githubusercontent.com/32119820/32871070-d258a4a8-ca33-11e7-87a0-f6652a4086ff.png)
 
 The chart shows reported and confirmed cases getting worse as the months progress. Although the number of confirmed cases is less than the number of reported cases, we still want to pay attention to the total number of cases per month. This signifies that the CDC should focus more efforts towards the Zika virus in order to avoid a massive outbreak in a few months.
 
-### Claim Two: Zika is not getting worse in the United States and the CDC should take no further actions
+### *Claim Two: Zika is not getting worse in the United States and the CDC should take no further actions
 
-![image](https://user-images.githubusercontent.com/32119820/32766412-b5919a44-c8c3-11e7-924f-76bb9447f40f.png)
+![image](https://user-images.githubusercontent.com/32119820/32871053-c05513a4-ca33-11e7-93d2-c257c43118ba.png)
 
 The chart above shows that although the number of average cases in increasing, we haven't seen a huge spike since February 2016. In addition, majority of the cases each month are reported instead of confirmed. This indicates that there is no direct correlation between reported and confirmed cases. Therefore, United States has nothing to worry about because the number of confirmed cases is significantly lower than the number of reported cases. More often than not, people feel Zika-like symptoms but are often feeling symptoms from another virus.
-
-#### Tableau Public Link: 
 
 In addition to our findings, the CDC website (https://www.cdc.gov/zika/reporting/case-counts.html) backs up our claim and shows updated information on the status of Zika cases. 
 
@@ -85,7 +83,9 @@ In addition to our findings, the CDC website (https://www.cdc.gov/zika/reporting
 
 In CDC's chart, it is visible that Zika is in fact not getting worse. After a large increase in July 2016, the number of Zika cases has been vastly decreasing and there are no significant cases during this past year. Because this is confirmed with the CDC, the United States has nothing to worry about as this is a trusted/reliable source. Therefore, no further actions need to be taken as we can reduce our current funding for Zika virus. Instead, we should allocate those resources elsewhere to other more prominant diseases.
 
-#### Tableau Public Link: 
+## Tableau Public Links:
+#### Zika is getting worse: 
+#### Zika is not getting worse: 
 
 -----------
 ## Future Enhancements
