@@ -15,6 +15,7 @@ It will be important to validate the fact that Zika isn't getting worse as this 
 Instead of looking at only the reported cases, we should also look at confirmed cases to see if there is a one-to-one relationship between reported cases turning into confirmed cases. If there is no relationship, then there is no need to spend more money on Zika. In addition, we will be focusing on the United States as I am making the assumption that our audience are only those who are living in the United States or one of its territories.
 
 <br/>
+
 ## Project Key Items:
 Claim: The Zika virus is not getting worse as stated in the original data visualization <br/>
 Rebuttal: The Zika virus is getting worse over time and we should spend more money on a cure <br/>
@@ -76,11 +77,15 @@ The chart shows reported and confirmed cases getting worse as the months progres
 
 The chart above shows that although the number of average cases in increasing, we haven't seen a huge spike since February 2016. In addition, majority of the cases each month are reported instead of confirmed. This indicates that there is no direct correlation between reported and confirmed cases. Therefore, United States has nothing to worry about because the number of confirmed cases is significantly lower than the number of reported cases. More often than not, people feel Zika-like symptoms but are often feeling symptoms from another virus.
 
+## Tableau Public Link: 
+
 In addition to our findings, the CDC website (https://www.cdc.gov/zika/reporting/case-counts.html) backs up our claim and shows updated information on the status of Zika cases. 
 
 ![image](https://user-images.githubusercontent.com/32119820/32713569-ab48021e-c7fe-11e7-8965-79de7aad1594.png)
 
 In CDC's chart, it is visible that Zika is in fact not getting worse. After a large increase in July 2016, the number of Zika cases has been vastly decreasing and there are no significant cases during this past year. Because this is confirmed with the CDC, the United States has nothing to worry about as this is a trusted/reliable source. Therefore, no further actions need to be taken as we can reduce our current funding for Zika virus. Instead, we should allocate those resources elsewhere to other more prominant diseases.
+
+## Tableau Public Link: 
 
 -----------
 ## Future Enhancements
@@ -88,13 +93,11 @@ In CDC's chart, it is visible that Zika is in fact not getting worse. After a la
 In future versions, I would like to include the following:
 1. Get more data on Zika virus in the United States (specifically the states). Right now the survey is limited to only having confirmed cases in the Virgin Islands. If there are more people with confirmed cases in the United States, we'll want to include that in our findings.<br/>
 2. Get more specific data on reported cases to include age. This will allow us to see whether age plays a role in the number of Zika cases. If it does, then we would be able to take more specific actions.<br/>
-3. Include data on more current months, specifically 2017. Right now the survey only contains data on the first half of 2016 so the information could be a bit outdated if the number of cases was updated.
+3. Include data on more current months (second half of 2016 and all of 2017). Right now the survey only contains data on the first half of 2016 so the information could be a bit outdated if the number of cases was updated.
 
 ---------
 *Make sure to add class concepts
 *add jupyter notebook <br/>
 *add tableau public links <br/>
-4. Final data visualization  <br/>
-5. Road map with future features/enhancements/features <br/>
 6. Showcase video (<90 sec)
 
