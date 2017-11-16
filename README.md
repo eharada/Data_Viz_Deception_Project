@@ -86,14 +86,15 @@ In CDC's chart, it is visible that Zika is in fact not getting worse. After a la
 ## Future Enhancements
 
 In future versions, I would like to include the following:
-1. Get more data on Zika virus in the United States. Right now the survey is limited to only having confirmed cases in the Virgin Islands. If there are more people with confirmed cases in the United States, we'll want to include that in our findings.<br/>
+1. Get more data on Zika virus in the United States (specifically the states). Right now the survey is limited to only having confirmed cases in the Virgin Islands. If there are more people with confirmed cases in the United States, we'll want to include that in our findings.<br/>
 2. Get more specific data on reported cases to include age. This will allow us to see whether age plays a role in the number of Zika cases. If it does, then we would be able to take more specific actions.<br/>
+3. Include data on more current months, specifically 2017. Right now the survey only contains data on the first half of 2016 so the information could be a bit outdated if the number of cases was updated.
 
 ---------
 *Make sure to add class concepts
-*add jupyter notebook
-*add tableau public links
-4. Final data visualization 
-5. Road map with future features/enhancements/features 
-6. Showcase video (<90 sec) 
+*add jupyter notebook <br/>
+*add tableau public links <br/>
+4. Final data visualization  <br/>
+5. Road map with future features/enhancements/features <br/>
+6. Showcase video (<90 sec)
 
