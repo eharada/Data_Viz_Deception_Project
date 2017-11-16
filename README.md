@@ -77,7 +77,7 @@ The chart shows reported and confirmed cases getting worse as the months progres
 
 The chart above shows that although the number of average cases in increasing, we haven't seen a huge spike since February 2016. In addition, majority of the cases each month are reported instead of confirmed. This indicates that there is no direct correlation between reported and confirmed cases. Therefore, United States has nothing to worry about because the number of confirmed cases is significantly lower than the number of reported cases. More often than not, people feel Zika-like symptoms but are often feeling symptoms from another virus.
 
-## Tableau Public Link: 
+#### Tableau Public Link: 
 
 In addition to our findings, the CDC website (https://www.cdc.gov/zika/reporting/case-counts.html) backs up our claim and shows updated information on the status of Zika cases. 
 
@@ -85,7 +85,7 @@ In addition to our findings, the CDC website (https://www.cdc.gov/zika/reporting
 
 In CDC's chart, it is visible that Zika is in fact not getting worse. After a large increase in July 2016, the number of Zika cases has been vastly decreasing and there are no significant cases during this past year. Because this is confirmed with the CDC, the United States has nothing to worry about as this is a trusted/reliable source. Therefore, no further actions need to be taken as we can reduce our current funding for Zika virus. Instead, we should allocate those resources elsewhere to other more prominant diseases.
 
-## Tableau Public Link: 
+#### Tableau Public Link: 
 
 -----------
 ## Future Enhancements
@@ -98,6 +98,7 @@ In future versions, I would like to include the following:
 ---------
 *Make sure to add class concepts
 *add jupyter notebook <br/>
+*add screenshots of updated final visuals <br/>
 *add tableau public links <br/>
 6. Showcase video (<90 sec)
 
