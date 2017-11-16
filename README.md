@@ -95,9 +95,7 @@ In future versions, I would like to include the following:
 3. Include data on more current months (second half of 2016 and all of 2017). Right now the survey only contains data on the first half of 2016 so the information could be a bit outdated if the number of cases was updated.
 
 ---------
-*Make sure to add class concepts
-*add jupyter notebook <br/>
-*add screenshots of updated final visuals <br/>
+*Make sure to add class concepts <br/>
 *add tableau public links <br/>
 6. Showcase video (<90 sec)
 
