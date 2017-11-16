@@ -13,7 +13,6 @@ However, Thiago’s generalizations give the audience a wrong impression and is 
 It will be important to validate the fact that Zika isn't getting worse as this is was a rising concern in 2016. Women who contract the virus will have pregnancy complications and newborns will have birth defects. Therefore, if we are able to show that Zika isn't getting worse, then United States can focus their efforts on other diseases that are affecting its citizens on a higher basis.
 
 Instead of looking at only the reported cases, we should also look at confirmed cases to see if there is a one-to-one relationship between reported cases turning into confirmed cases. If there is no relationship, then there is no need to spend more money on Zika. In addition, we will be focusing on the United States as I am making the assumption that our audience are only those who are living in the United States or one of its territories.
-
 <br/>
 
 ## Project Key Items:
@@ -38,7 +37,7 @@ This visual is good because we can see that we will need to take a closer look a
 
 #### <i>Data Wrangling:</i>
 
-In Jupyter, the data needed to be cleaned up for typos. For example, Pennsylvania had extra characters for some of the data. This could be due to how the data was converted from CDC. In addition, we will remove certain columns that we do not need such as the data_field_code, time_period, and time_period_type.
+In Jupyter, the data needed to be cleaned up for typos. For example, Pennsylvania had extra characters for some of the data. This could be due to how the data was converted from CDC. In addition, some rows had empty cells for the values so those entries were dropped. Lastly, we will remove certain columns that we do not need such as the data_field_code, time_period, and time_period_type.
 
 ## Prototypes:
 #### <i>1st Iteration:</i>
