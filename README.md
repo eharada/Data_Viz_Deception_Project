@@ -83,8 +83,8 @@ In addition to our findings, the CDC website (https://www.cdc.gov/zika/reporting
 In CDC's chart, it is visible that Zika is in fact not getting worse. After a large increase in July 2016, the number of Zika cases has been vastly decreasing and there are no significant cases during this past year. Because this is confirmed with the CDC, the United States has nothing to worry about as this is a trusted/reliable source. Therefore, no further actions need to be taken as we can reduce our current funding for Zika virus. Instead, we should allocate those resources elsewhere to other more prominant diseases.
 
 ## Tableau Public Links:
-#### Zika is getting worse: 
-#### Zika is not getting worse: 
+#### Zika is getting worse: https://public.tableau.com/profile/elena.harada#!/vizhome/DeceptionProject/ProDashboard?publish=yes
+#### Zika is not getting worse: https://public.tableau.com/profile/elena.harada#!/vizhome/DeceptionProject/ConDashboard?publish=yes
 
 -----------
 ## Future Enhancements
@@ -96,6 +96,5 @@ In future versions, I would like to include the following:
 
 ---------
 *Make sure to add class concepts <br/>
-*add tableau public links <br/>
 6. Showcase video (<90 sec)
 
