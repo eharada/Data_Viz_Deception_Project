@@ -1,6 +1,6 @@
 # Is the Zika virus actually getting worse in the United States or is there false information?
 
-The following dataset was pulled directly from www.kaggle.com which contains a CDC survey on the number of Zika cases over time by location. Kaggle user, Thiago, created data visualizations that show Zika cases generally getting worse as the months progress for each country. The specific dataset can be found here:
+The following dataset was pulled from www.kaggle.com. This specific dataset contains a CDC survey that displays the number of Zika cases over time and separated by geography. Kaggle user, Thiago, created data visualizations that show Zika cases generally getting worse as the months progress for each country. The specific dataset can be found here:
 
 https://www.kaggle.com/thiagoprocaci/zika-cases-by-country/code
 
@@ -10,11 +10,11 @@ A sample of Thiago's data visualizations is below:
 
 ![image](https://user-images.githubusercontent.com/32119820/32258671-1f45e044-be79-11e7-9222-a2d767fec4e9.png)
 
-However, Thiago’s generalizations may give the audience a wrong impression as it is looking too broadly. His visuals only focus on the number of reported cases rather than confirmed cases. However, reported cases is not completely accurate as there could be those who feel they have Zika but are actually experiencing a different virus. If that is the case, the total number of reported cases does not get updated with the new reduced number. 
+However, Thiago’s generalizations may give the audience a wrong impression as it is looking too broadly. His visuals only focus on  reported cases rather than confirmed cases. However, reported cases are not completely accurate as there could be people who feel they have Zika but are actually experiencing a different virus. If that is the case, the total number of reported cases does not get updated after with the new reduced number. 
 
-It will be important to validate the fact that Zika isn't getting worse as this is was a rising concern in 2016. Women who contract the virus will have pregnancy complications and newborns will have birth defects. Therefore, if we are able to show that Zika isn't getting worse, then United States can focus their efforts on other diseases that are affecting its citizens on a higher basis.
+It will be important to validate the fact that Zika isn't getting worse as this was a rising concern in 2016. Women who contract the virus will have pregnancy complications and newborns will have birth defects. Therefore, if we are able to show that Zika isn't getting worse, then United States can focus their efforts on other diseases that are affecting its citizens.
 
-Instead of looking at only the reported cases, we should also look at confirmed cases to see the total number has a positive trend. If confirmed cases aren't increasing as quickly as Thiago's chart, then there is no need to spend more money on Zika. In addition, wthe focus will be on the United States as I am making the assumption that our audience is only those who are living in the United States or one of its territories.
+Instead of looking at only the reported cases, we should also look at confirmed cases to see the total number has a positive trend. If confirmed cases aren't increasing as quickly as Thiago's chart suggests, there is no need to spend more money on Zika. In addition, the focus will be on the United States as I am making the assumption that our audience is only those who are living in the United States or one of its territories.
 <br/>
 
 ## Project Key Items:
@@ -24,17 +24,17 @@ Qualifier: The virus is not getting worse in the United States <br/>
 Audience: Everyone living in the United States who is afraid of contracting the virus and having long-term consequences <br/>
 Needs: To see evidence that the virus isn't getting out of hand and they have nothing to worry about <br/>
 Wants: The virus to subside in areas that they frequently visit or live in <br/>
-Fears: The Zika virus is getting worse over time and we need to spend more money<br/>
+Fears: The Zika virus is getting worse over time and we need to spend more money <br/>
 
 ---------
 ## Project Progression:
 
 #### <i>Exploratory Visual:</i>
-In the first visual, our goal is to see what the trend is between reported and confirmed case. In the graph we could see that there is generally a larger number of confirmed versus reported cases. This could be an indicator that the symptoms could take a while to appear. For example, the total number of confirmed cases that we see in June could be those who were actually affected in an early month such as February. However it could also be an indicator that majority of the cases aren't verified, so Zika is not getting worse.
+In the first visual, our goal is to see what the trend is between reported and confirmed case. In the graph we could see that there is generally a larger number of confirmed cases than reported cases. This could be an indicator that the symptoms could take a while to appear. For example, the total number of confirmed cases that we see in June could be those who were actually affected in an early month such as February. However it could also be an indicator that majority of the cases aren't verified, so Zika is not getting worse.
 
 ![image](https://user-images.githubusercontent.com/32119820/32765980-b7950dfa-c8c1-11e7-807e-feb46021bd20.png)
 
-This visual is good because it shows that that number of reported and confirmed cases is generally increasing over time. It makes it easy for the audience to see whether their fears are a reality. However, we must be cautious as the exploratory data includes the total values rather than averages. In addition, it may include outliers that will need to be excluded. Because of this, the trend could look worse than it actually is.
+This visual is good because it shows that that number of reported and confirmed cases is generally increasing over time. It makes it easy for the audience to see if their fears are a reality. However, we must be cautious as the exploratory data includes the total values rather than averages. In addition, it may include outliers that will need to be excluded. Because of this, the trend could look worse than it actually is.
 <br/>
 
 #### <i>Data Wrangling:</i>
@@ -54,7 +54,7 @@ In the second chart, it is visible that there is no relationship between reporte
 
 Both charts have the average number of cases rather than the sum. This allows us to normalize the data and see a more realistic point of view.
 
-In the next version, I want to reduce the number of variables shown in each graph. It may make the chart cluttered and may be confusing to follow, so I am going to compare the percent of cases that are reported with the percent that are confirmed. This will allow the audience to easily compare the two categories.
+In the next version, I want to reduce the number of variables shown in each graph. It may make the chart cluttered and may be confusing to follow. Therefore I am going to combine the variables and compare the percent of cases that are reported with the percent that are confirmed. This will allow the audience to easily compare the two categories.
 
 #### <i>2nd Iteration:</i>
 
